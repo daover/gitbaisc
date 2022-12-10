@@ -7,5 +7,10 @@ public class App {
 		
 		System.out.println("Hello World");
 	}
+	
+	public void method()
+	{
+		System.out.println("Chnages");
+	}
 
 }
